@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="daxin-spark-kafka">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\青春常驻Dax1n\Desktop\daxin-spark-kafka\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
